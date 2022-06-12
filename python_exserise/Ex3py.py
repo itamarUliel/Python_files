@@ -3,7 +3,7 @@ sys.setrecursionlimit(2147483647)
 
 
 def add(a, b):
-    if a == 0 and b == 1:
+    if a == 0 and b == 0:
         return 0
     else:
         if a != 0:
